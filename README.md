@@ -140,6 +140,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [mortgage](https://github.com/lendtrain/mortgage) - Mortgage refinance plugin by LendTrain — real-time institutional pricing, compliance, and FHA/VA loan detection via MCP. No API key required.
 - [pricing-packaging-specialist](./plugins/pricing-packaging-specialist)
 - [product-sales-specialist](./plugins/product-sales-specialist)
+- [samyo-prospection](https://github.com/dibrilou45/samyo-claude-plugins) - LinkedIn prospecting run by an AI agent: prepares the strategy from your website (target, messages, pace), then runs the campaign via MCP. Every action is previewed and only runs when you say yes.
 - [support-responder](./plugins/support-responder)
 - [stratarts](./plugins/stratarts)
 - [technical-sales-engineer](./plugins/technical-sales-engineer)
